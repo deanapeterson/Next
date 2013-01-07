@@ -1,5 +1,5 @@
 #Next
-Simple helper javascript object that provides the 'next' item in the array. Starting over after returning the last item in the array.
+Simple javascript helper that provides the 'next' item in the array. Starting over after returning the last item in the array.
 
 Can return strings, numbers, and objects.
 
