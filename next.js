@@ -30,3 +30,7 @@ Next.prototype = {
 		return item;
 	}
 };
+
+if(exports){
+	exports.Next = Next;
+}
